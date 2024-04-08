@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Howe Sound Islands", "r_order": 10 },
+  { "id": 2, "name": "Capilano Mountain", "r_order": 20 },
+  { "id": 3, "name": "Lions / Howe Sound Crest Trail Area", "r_order": 30 },
+  { "id": 4, "name": "Cypress Group", "r_order": 40 },
+  { "id": 5, "name": "Grouse Area", "r_order": 50 },
+  { "id": 6, "name": "Hanes Valley Area", "r_order": 60 },
+  { "id": 7, "name": "Lynn / Cathedral Range", "r_order": 70 },
+  { "id": 8, "name": "Fannin Range", "r_order": 80 },
+  { "id": 99, "name": "Wandering Peak", "r_order": 999 }
+]

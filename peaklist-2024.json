@@ -1,0 +1,637 @@
+{
+  "10": {
+    "range_id": 1,
+    "peaks": {
+      "15": {
+        "peak_id": 94,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "20": {
+        "peak_id": 6,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "30": {
+        "peak_id": 8,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "40": {
+        "peak_id": 4,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "50": {
+        "peak_id": 5,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "60": {
+        "peak_id": 3,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "70": {
+        "peak_id": 87,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "80": {
+        "peak_id": 1,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "90": {
+        "peak_id": 2,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "100": {
+        "peak_id": 9,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      }
+    }
+  },
+  "20": {
+    "range_id": 2,
+    "peaks": {
+      "10": {
+        "peak_id": 10,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "30": {
+        "peak_id": 12,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "40": {
+        "peak_id": 13,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      }
+    }
+  },
+  "30": {
+    "range_id": 3,
+    "peaks": {
+      "5": {
+        "peak_id": 35,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "10": {
+        "peak_id": 34,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "15": {
+        "peak_id": 33,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "20": {
+        "peak_id": 31,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "25": {
+        "peak_id": 32,
+        "season": "summer",
+        "scoring": "danger",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "30": {
+        "peak_id": 30,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "33": {
+        "peak_id": 89,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "35": {
+        "peak_id": 29,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "40": {
+        "peak_id": 28,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "45": {
+        "peak_id": 27,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "50": {
+        "peak_id": 26,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "55": {
+        "peak_id": 25,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 1,
+        "early_open": null
+      },
+      "60": {
+        "peak_id": 24,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "65": {
+        "peak_id": 23,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "70": {
+        "peak_id": 21,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "75": {
+        "peak_id": 22,
+        "season": "summer",
+        "scoring": "danger",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "80": {
+        "peak_id": 20,
+        "season": "summer",
+        "scoring": "danger",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "85": {
+        "peak_id": 19,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 1,
+        "early_open": null
+      },
+      "90": {
+        "peak_id": 18,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "95": {
+        "peak_id": 17,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "96": {
+        "peak_id": 92,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "100": {
+        "peak_id": 14,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "105": {
+        "peak_id": 15,
+        "season": "summer",
+        "scoring": "danger",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "110": {
+        "peak_id": 16,
+        "season": "summer",
+        "scoring": "danger",
+        "exposed_summit": 0,
+        "early_open": null
+      }
+    }
+  },
+  "40": {
+    "range_id": 4,
+    "peaks": {
+      "5": {
+        "peak_id": 93,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "20": {
+        "peak_id": 37,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "30": {
+        "peak_id": 38,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "40": {
+        "peak_id": 36,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      }
+    }
+  },
+  "50": {
+    "range_id": 5,
+    "peaks": {
+      "10": {
+        "peak_id": 40,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "20": {
+        "peak_id": 41,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "30": {
+        "peak_id": 43,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "40": {
+        "peak_id": 42,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "60": {
+        "peak_id": 45,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "70": {
+        "peak_id": 46,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "75": {
+        "peak_id": 90,
+        "season": "summer",
+        "scoring": "danger",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "80": {
+        "peak_id": 47,
+        "season": "summer",
+        "scoring": "danger",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "90": {
+        "peak_id": 49,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "100": {
+        "peak_id": 48,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 1,
+        "early_open": null
+      }
+    }
+  },
+  "60": {
+    "range_id": 6,
+    "peaks": {
+      "10": {
+        "peak_id": 52,
+        "season": "summer",
+        "scoring": "danger",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "20": {
+        "peak_id": 50,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "30": {
+        "peak_id": 51,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      }
+    }
+  },
+  "70": {
+    "range_id": 7,
+    "peaks": {
+      "10": {
+        "peak_id": 53,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "20": {
+        "peak_id": 54,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "30": {
+        "peak_id": 55,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "40": {
+        "peak_id": 56,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "50": {
+        "peak_id": 57,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "60": {
+        "peak_id": 58,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "70": {
+        "peak_id": 59,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "80": {
+        "peak_id": 60,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "90": {
+        "peak_id": 61,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "100": {
+        "peak_id": 62,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      }
+    }
+  },
+  "80": {
+    "range_id": 8,
+    "peaks": {
+      "5": {
+        "peak_id": 63,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "10": {
+        "peak_id": 64,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "15": {
+        "peak_id": 65,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "25": {
+        "peak_id": 67,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "30": {
+        "peak_id": 68,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "35": {
+        "peak_id": 69,
+        "season": "spring",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "40": {
+        "peak_id": 70,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "45": {
+        "peak_id": 71,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "50": {
+        "peak_id": 72,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "55": {
+        "peak_id": 73,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "60": {
+        "peak_id": 74,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "65": {
+        "peak_id": 75,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "70": {
+        "peak_id": 76,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "75": {
+        "peak_id": 77,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "80": {
+        "peak_id": 78,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "85": {
+        "peak_id": 79,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "90": {
+        "peak_id": 80,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "95": {
+        "peak_id": 81,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "98": {
+        "peak_id": 86,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "100": {
+        "peak_id": 82,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      },
+      "115": {
+        "peak_id": 85,
+        "season": "summer",
+        "scoring": "standard",
+        "exposed_summit": 0,
+        "early_open": null
+      }
+    }
+  }
+}
