@@ -1,0 +1,29 @@
+{
+    "activities":
+    [
+        {
+            "strava": "https://www.strava.com/activities/11389460096",
+            "peaks": [53, 54, 55]
+        },
+        {
+            "strava": "https://www.strava.com/activities/11441621211",
+            "peaks": [6]
+        },
+        {
+            "strava": "https://www.strava.com/activities/11613740810",
+            "peaks": [37]
+        },
+        {
+            "strava": "https://www.strava.com/activities/11606417454",
+            "peaks": [65]
+        },
+        {
+            "strava": "https://www.strava.com/activities/11661066707",
+            "peaks": [67, 68]
+        },
+        {
+            "strava": "https://www.strava.com/activities/11668479384",
+            "peaks": [38]
+        }
+    ]
+}

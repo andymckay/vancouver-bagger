@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <link href="bootstrap.min.css" rel="stylesheet" />
+        <title>Vancouver Bagger</title>
+    </head>
+    <body>
+        <div class="container pt-5">
+        <h2>Vancouver Bagger: 2024</h2>
+        <p>
+            This is a list of the peaks from <a href="https://www.baggerchallenge.ca">this site</a>,
+            which requires a Facebook login. Because I refuse to use Facebook, this is a site to track my progress.
+        </p>
+        <p>
+            I've then removed peaks that aren't in the 
+            <a href="https://www.amazon.ca/Glorious-Mountains-Vancouvers-North-Shore/dp/1771602414">The Glorious Mountains of the Vancouver's North Shore</a>, 
+            the peak baggers bible and an indispensible book. I've also removed peaks on Gambier, Bowen and Anvil that just don't interest me.
+        </p>
+        <p>
+            Progress: 
+            <b class="badge rounded-pill text-bg-primary">{{ done }}</b> out of 
+            <b class="badge rounded-pill text-bg-success">{{ total }}</b> so only 
+            <b class="badge rounded-pill text-bg-primary">{{ total - done }}</b> to go.
+        </p>
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">Done</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Location</th>
+                    <th scope="col">Elevation</th>
+                    <th scope="col">Difficulty</th>
+                    <th scope="col">Strava</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for peak in peaks %}
+                    <tr>
+                        <td>{% if peak.id in by_peak %}✅{% endif %}</td>
+                        <td>{{ peak.name }}</td>
+                        <td><a href="https://maps.google.com?z=12&q={{ peak.latitude }},{{ peak.longitude }}&ll={{ peak.latitude }},{{ peak.longitude }}">Map</a> </td>
+
+                        <td>{{ peak.info_elevation }}m</td>
+                        <td>{{ peak.info_difficulty }}</td>
+                        <td>{% if peak.id in by_peak %}<a href="{{ by_peak[peak.id] }}">Strava</a>{% endif %}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        </div>
+    </body>
+</html>
