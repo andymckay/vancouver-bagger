@@ -900,26 +900,6 @@
     "info_danger": null
   },
   {
-    "id": 66,
-    "abbreviation": "HAS",
-    "name": "Hastings Peak",
-    "range_id": 8,
-    "p_order": 20,
-    "latitude": 49.385414,
-    "longitude": -122.913604,
-    "info_name_type": "unofficial",
-    "info_name_hint": null,
-    "info_peak_hint": null,
-    "info_elevation": 957,
-    "info_prominence": 87,
-    "info_difficulty": "medium",
-    "info_quality": null,
-    "info_view": null,
-    "info_routefinding": null,
-    "info_kid_friendly": null,
-    "info_danger": null
-  },
-  {
     "id": 67,
     "abbreviation": "SUI",
     "name": "Suicide Bluff",
