@@ -24,6 +24,10 @@
         {
             "strava": "https://www.strava.com/activities/11668479384",
             "peaks": [38]
+        },
+        {
+            "strava": "https://www.strava.com/activities/11778271735",
+            "peaks": [44, 42, 41]
         }
     ]
 }

@@ -540,6 +540,26 @@
     "info_danger": null
   },
   {
+    "id": 44,
+    "abbreviation": "LIL",
+    "name": "Little Goat Mountain",
+    "range_id": 5,
+    "p_order": 50,
+    "latitude": 49.398079,
+    "longitude": -123.083395,
+    "info_name_type": "unofficial",
+    "info_name_hint": null,
+    "info_peak_hint": null,
+    "info_elevation": 1323,
+    "info_prominence": 58,
+    "info_difficulty": "easy",
+    "info_quality": 3,
+    "info_view": null,
+    "info_routefinding": null,
+    "info_kid_friendly": 1,
+    "info_danger": null
+  },
+  {
     "id": 45,
     "abbreviation": "GOA",
     "name": "Goat Mountain",
